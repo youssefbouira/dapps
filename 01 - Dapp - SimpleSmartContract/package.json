@@ -1,0 +1,15 @@
+{
+  "name": "simplesmartcontract",
+  "version": "1.0.0",
+  "description": "A simple smart contract using solidity with basic test for deployment",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Youssef Bouira",
+  "license": "ISC"
+}
